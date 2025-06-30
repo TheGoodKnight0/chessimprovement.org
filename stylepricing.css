@@ -1,0 +1,24 @@
+body{
+    background-image: url("Screenshots/favicon.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button-row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px
+}
+h1{
+text-align:center;
+   font-family: "ludcida", "arial";
+   font-style: italic;
+font-size: 50px;
+color:#303361c2;
+text-shadow:
+        2px 2px 0 #000,
+       -2px 2px 0 #000,
+        2px -2px 0 #000,
+       -2px -2px 0 #000;
+}
