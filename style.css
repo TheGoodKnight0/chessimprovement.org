@@ -21,7 +21,7 @@ background-image: url(still-chillin.png);
 background-position: top center;
 background-repeat: no-repeat;
 background-size: cover;
-height: 220vh;
+height: 190vh;
 }
 h1{
     text-align:center;
@@ -36,7 +36,7 @@ text-shadow:
        -2px -2px 0 #000;
 }
 .bottom-half{
-    min-height: 50vh;
+    min-height: 60vh;
     background-color: rgba(0, 0, 0, 0.171);
 }
  button:hover {
